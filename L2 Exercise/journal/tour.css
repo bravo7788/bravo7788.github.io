@@ -1,0 +1,27 @@
+p.a {
+    font-family: Verdana;
+    color: red;
+}
+
+p.b {
+    font-family: sans-serif;
+}
+
+p.c {
+    font-family: serif;
+}
+
+p.d {
+    font-family: monospace;
+}
+
+h1 {
+    font-weight: bolder;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+ol {
+    color: purple;
+    font-weight: bold;
+}
