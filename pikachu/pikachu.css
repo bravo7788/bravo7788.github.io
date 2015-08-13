@@ -26,6 +26,7 @@
     margin-top:250px;
     padding-left: 35px;
     color:white;
+    font-family: arial;
      }
         
     .circle3 {
@@ -67,6 +68,7 @@
     	padding-top: 10px;
     	padding-left: 10px;
     	text-align: center;
+        font-style: italic;
     }
     .circle6{
     	box-sizing:border-box;
