@@ -1,0 +1,22 @@
+.h1 {
+    font-family: arial;
+    font-style: italic;
+    text-align: center;
+    background-color: #D1BBFF;
+}
+
+.d1 {
+    boxsizing: border box;
+    float: left;
+    width: 500px;
+    height: 200px;
+    background-color: yellow;
+}
+
+.d2 {
+    boxsizing: border box;
+    float: left;
+    width: 500px;
+    height: 200px;
+    background-color: blue;
+}
