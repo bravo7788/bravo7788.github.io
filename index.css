@@ -29,8 +29,7 @@
 
 .col5 {
     boxsizing: border box;
-    float: left;
+    float: ;
     width: 100px;
-    height: 30%;
-    background-color: blue;
+    height: 50;
 }
