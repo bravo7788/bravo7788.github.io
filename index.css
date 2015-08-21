@@ -1,22 +1,36 @@
-.h1 {
+.col {
+    margin: auto;
+    height: 20%;
+}
+
+.col2 {
+    width: 100px;
+    height: 30%;
+    background-color: red;
+}
+
+.col3 {
+    width: auto;
+    height: 450px;
+    float: left;
     font-family: arial;
     font-style: italic;
     text-align: center;
     background-color: #D1BBFF;
 }
 
-.d1 {
+.col4 {
     boxsizing: border box;
     float: left;
-    width: 500px;
-    height: 200px;
+    width: 450px;
+    height: 30%;
     background-color: yellow;
 }
 
-.d2 {
+.col5 {
     boxsizing: border box;
     float: left;
-    width: 500px;
-    height: 200px;
+    width: 100px;
+    height: 30%;
     background-color: blue;
 }
