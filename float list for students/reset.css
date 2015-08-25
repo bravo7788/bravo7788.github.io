@@ -44,3 +44,23 @@ table {
     border-collapse: collapse;
     border-spacing: 0;
 }
+
+#bk {
+    color: #9a5427;
+    font-style: inherit;
+}
+
+#good {
+    color: #ba7947;
+    text-align: center;
+}
+
+#bad {
+    color: #ba7947;
+    text-align: center;
+}
+
+#feature {
+    color: #ba7947;
+    text-align: center;
+}
