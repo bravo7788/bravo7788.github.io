@@ -1,0 +1,30 @@
+* {
+    box-sizing: border box;
+}
+
+[class*="col-"] {
+    float: left;
+    width: 16%;
+    padding: 2%;
+    border: 1% solid red;
+    margin: 0.2%;
+}
+
+.row:after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+img {
+    max-width: 100%
+}
+
+img[src$=".png"] {
+    border-radius: 50%;
+    border: 2px dashed red;
+}
+
+a[href^="http"]:after {
+    content: "i am real";
+}
